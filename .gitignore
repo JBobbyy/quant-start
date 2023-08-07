@@ -1,0 +1,6 @@
+# Files or folder to ignore
+
+# Ignore vscode file
+.vscode/
+# Ignore jupyter checkpoints
+.ipynb_checkpoints/
