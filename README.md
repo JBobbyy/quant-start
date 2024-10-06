@@ -2,4 +2,4 @@
 
 ## Description
 
-This python repository records my journey on learning how to apply Python for quantitative finance and to start implement trading algorithm. It can be seen as a Quantopian summary.
+In this python repository I record my journey on learning how to use Python for quantitative finance and to start implementing trading algorithm. Lectures are from the Quantopian project.
